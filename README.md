@@ -15,8 +15,7 @@ You can add, search, edit, and delete (CRUD) items effortlessly. The project als
 
 ## Screenshots
 
-![Dashboard](url_to_dashboard_screenshot.png)
-![Item Page](url_to_item_page_screenshot.png)
+![Item Page](media/screenshot.png)
 
 ## Installation
 
